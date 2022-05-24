@@ -1,0 +1,8 @@
+{
+    "python.autoComplete.extraPaths": [
+        "./Python"
+    ],
+    "python.analysis.extraPaths": [
+        "./Python"
+    ],
+}
