@@ -1,0 +1,4 @@
+
+function Payment(){
+    this.oid;
+}
