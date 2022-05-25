@@ -1,4 +1,6 @@
 
-function Payment(){
-    this.oid;
+class Payment{
+    constructor(){
+        this.id
+    }
 }

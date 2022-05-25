@@ -1,8 +1,8 @@
 {
     "python.autoComplete.extraPaths": [
-        "./Python"
+        "./settings.json"
     ],
     "python.analysis.extraPaths": [
-        "./Python"
+        "./settings.json"
     ],
 }
